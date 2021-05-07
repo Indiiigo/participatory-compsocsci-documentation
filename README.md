@@ -1,14 +1,20 @@
-# Participatory Development of Quality Guidelines for Social Media Research: A Structured, Hands-on Design Workshop
+# Participatory Development of Quality Guidelines for Social Media Research
+
+A Structured, Hands-on Design Workshop at the [International Conference for Web and Social Media (ICWSM)](https://icwsm.org/2021/index.html), taking place virtually on 7th June, 2021 at 2 PM BST. 
 
 
 ## What's this workshop about? 
 
-In this full-day and fully virtual workshop colocated with the [International Conference for Web and Social Media (ICWSM)](https://icwsm.org/2021/index.html), we adopt a collaborative perspective in developing these guidelines further. Drawing on principles of participatory design, we hope to include several stakeholders involved through collaborative brainstorming and the design of research documentation. We envision that the end goal of this workshop entails shared documentation that establishes best practices for research with web and social media data.
+In this full-day, we adopt a collaborative perspective in developing these guidelines further. Drawing on principles of participatory design, we hope to include several stakeholders involved through collaborative brainstorming and the design of research documentation. We envision that the end goal of this workshop entails shared documentation that establishes best practices for research with web and social media data.
 
 
 ## How to participate?
 
-This workshop is open to all interested in research with web and social media data. You should register at the main conference, [here](https://icwsm.org/2021/index.html#attend). ICWSM-21 is offering discounted rates for particpants from South America and Africa. 
+This workshop is open to all interested in research with web and social media data. 
+Conference registration is open until May 28 (see details [here](https://icwsm.org/2021/index.html#registration)). 
+
+Thanks to the generosity of the ICWSM organizers, we can offer registration waivers for two participants, preferably from communities under-represented at the conference. If you’re interested in applying for a fee waiver, send us a short (maximum 200 word) summary of why you’d like to attend with your name and email to participatorycssdoc@gmail.com until May 20. 
+We are still exploring more potential fee waiver options, so you may want to watch out for updates on our website! ICWSM is also offering discounted rates for particpants from South America and Africa.
 
 
 ![Participatory](participatory_css.jpg)
@@ -50,4 +56,4 @@ Envisioned as the first of a series of workshops, with this workshop we want to 
 
 [Dr. Katrin Weller](https://katrinweller.net/) is an information scientist working at the Computational Social Science department at GESIS and team leader of “Social Analytics and Services”. Her research focus is on social media, new types of research data and data preservation, scholarly communication & altmetrics, web users and communication structures. 
 
-If you have any questions about the workshop, feel free to reach out to us at {firstname.lastname}@gesis.org
+If you have any questions about the workshop, feel free to reach out to us at participatorycssdoc@gmail.com or {firstname.lastname}@gesis.org
