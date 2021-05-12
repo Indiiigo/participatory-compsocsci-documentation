@@ -39,13 +39,13 @@ Envisioned as the first of a series of workshops, with this workshop we want to 
 
 | Session                                                                                                              | Type                                     | Time (tentatively Atlanta Time) |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------|
-| Opening and Introductions                                                                                            | Plenary                                  | 10:00-10:15                     |
-| Introduction to Existing Guidelines for Research<br>with Web and Social Media Data                                   | Plenary                                  | 10:15-11:00                     |
-| Brainstorming Research Designs                                                                                       | Breakout Rooms + summary in plenary room | 11:10-12:30                     |
-| Break                                                                                                                |                                          | 12:30-13:30                     |
-| Interactive Discussion of Case Studies that use Web and <br>Social Media Data through the Lens of Various Guidelines | Plenary                                  | 13:30-14:50                     |
-| Applying Guidelines for Documenting Limitations<br>of Research Designs                                               | Breakout Rooms + summary in plenary room | 15:00-16:30                     |
-| Final Group Discussion, Lessons Learned and Closing                                                                  | Plenary                                  | 16:30-17:00                     |
+| Opening and Introductions                                                                                            | Plenary                                  | 09:00-09:15                     |
+| Introduction to Existing Guidelines for Research<br>with Web and Social Media Data                                   | Plenary                                  | 09:15-10:15                     |
+| Brainstorming Research Designs                                                                                       | Breakout Rooms + summary in plenary room | 10:15-11:45                     |
+| Interactive Discussion of Case Studies that use Web and <br>Social Media Data through the Lens of Various Guidelines | Plenary                                  | 11:45-13:00                     |
+| Break                                                                                                                |                                          | 13:00-14:00                     |
+| Applying Guidelines for Documenting Limitations<br>of Research Designs                                               | Breakout Rooms + summary in plenary room | 14:00-15:30                     |
+| Final Group Discussion, Lessons Learned and Closing                                                                  | Plenary                                  | 15:30-16:00                     |
 
 
 ## Organizers:
