@@ -13,7 +13,7 @@ In this full-day, we adopt a collaborative perspective in developing these guide
 This workshop is open to all interested in research with web and social media data. 
 Conference registration is open until May 28 (see details [here](https://icwsm.org/2021/index.html#registration)). 
 
-Thanks to the generosity of the ICWSM organizers, we can offer registration waivers for two participants, preferably from communities under-represented at the conference. If you’re interested in applying for a fee waiver, send us a short (maximum 200 word) summary of why you’d like to attend with your name and email to participatorycssdoc@gmail.com until May 20. 
+Thanks to the generosity of the ICWSM organizers, we can offer registration waivers for two participants, preferably from communities under-represented at the conference. If you’re interested in applying for a fee waiver, send us a short (maximum 200 word) summary of why you’d like to attend with your name and email to participatorycssdoc@gmail.com until May 25. 
 We are still exploring more potential fee waiver options, so you may want to watch out for updates on our website! ICWSM is also offering discounted rates for particpants from South America and Africa.
 
 
