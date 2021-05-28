@@ -37,7 +37,7 @@ Envisioned as the first of a series of workshops, with this workshop we want to 
 
 ## Planned Timeline
 
-| Session                                                                                                              | Type                                     | Time (tentatively Atlanta Time) |
+| Session                                                                                                              | Type                                     | Time (tentatively Atlanta Time UTC-4) |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------|
 | Opening and Introductions                                                                                            | Plenary                                  | 09:00-09:15                     |
 | Introduction to Existing Guidelines for Research<br>with Web and Social Media Data                                   | Plenary                                  | 09:15-10:15                     |
